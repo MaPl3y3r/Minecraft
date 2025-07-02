@@ -1,0 +1,17 @@
+{
+	id: "34813682-8f2f-3498-b11d-396c15f6f8fb"
+	type: "player"
+	player_name: "MaPl3y3r"
+	ranks: {
+		34813682-8f2f-3498-b11d-396c15f6f8fb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MaPl3y3r"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
